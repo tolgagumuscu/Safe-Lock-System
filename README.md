@@ -1,24 +1,15 @@
 
 # Safe Lock System EE321 (Microprocessors) Term Project
 
-Python (.py) code to analyze file count, size and type
-information on two different operating systems.
+In this project, what was expected of us was to make safe lock for hotels, I made the hardware and software of this safe that we made.
 
-## Challenges to Solve:
- 1. Coding the back-end side of our file analysis program
- 2. Creating a GUI design.
- 3. Coding the front-end side.
- 4. Running our application on two different operating systems
+## Softwares:
+ 1. PROTEUS
+ 2. ARDUINO IDE
 
-Operating Systems That We Are Using in This Project: • Windows 
-• Linux
-
-Libraries We Used
-• OS Library 
-• Tkinter Library
+## Hardware Circuit Schematic:
 ![alt text](https://www.linkpicture.com/q/circuit.png)
-**Ubuntu Installation Guide:**
-We use the wine command to run it with .exe extension on Ubuntu. If we call the wine command in the file with the .exe extension file to the terminal as in the picture above, our program runs smoothly
 
+## Logic of the Safe Lock:
 
 ![alt text](https://www.linkpicture.com/q/state_diagram.png)
