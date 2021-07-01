@@ -1,5 +1,5 @@
 
-# File-Analyzer
+# Safe Lock System EE321 (Microprocessors) Term Project
 
 Python (.py) code to analyze file count, size and type
 information on two different operating systems.
